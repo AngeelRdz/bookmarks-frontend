@@ -147,14 +147,16 @@ Markers
   
 ------------------------
 
-### Plataforms
+### Plataforms
+
 | Link  | Description  | Tags  |
 | :---  | -----------  |  ---: |
 | [Tekki](https://tekki.tv/) | Plataforma de referencia de contenido sobre TI | ` Web ` |
 
 ------------------------
 
-### Design Web
+### Design Web
+
 | Link  | Description  | Tags  |
 | :---  | -----------  |  ---: |
 | [Web Flow](https://webflow.com/) | Plataforma de referencia de contenido sobre TI | ` Design Web ` |
