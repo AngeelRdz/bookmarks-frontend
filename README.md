@@ -5,7 +5,7 @@ Markers
 
 ------------------------
 
-| [Blogs and Magazines](#blogs-and-magazines) | [Guías](#guias) | [Courses](#courses) | [CSS](#css) | [Profesores Blogs](#profesores-blogs) | [Challenges](#challenges) | [Git](#git) | [Resources](#resources) | [Plataforms](#plataforms) | [Design Web](#design-web) |
+| [Blogs and Magazines](#blogs-and-magazines) | [Guías](#guias) | [Courses](#courses) | [CSS](#css) | [Profesores Blogs](#profesores-blogs) | [Challenges](#challenges) | [Git](#git) | [Resources](#resources) | [Plataforms](#plataforms) | [Design Web](#design-web) | [HTML](#html) |
 
 
 ### Blogs and Magazines
@@ -56,9 +56,12 @@ Markers
 
 | Link  | Description  | Tags  |
 | :---  | -----------  |  ---: |
-| [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) | ront End Development Libraries Certification | ` Web ` |
+| [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) | Front End Development Libraries Certification | ` Web ` |
+| [HTML y CSS](https://learndigital.withgoogle.com/activate/course/web-development-I) | Curso de HTML y CSS de Google | ` Web ` |
+| [Basci HTML](https://www.freecodecamp.org/learn/responsive-web-design/) | Curso de HTML en FreeCodeCamp | ` HTML ` |
 
 ------------------------
+
 
 ### CSS
   
@@ -162,3 +165,16 @@ Markers
 | [Web Flow](https://webflow.com/) | Plataforma de referencia de contenido sobre TI | ` Design Web ` |
 
 ------------------------
+
+### HTML
+
+| Link  | Description  | Tags  |
+| :---  | -----------  |  ---: |
+| [HTML Specs](https://html.spec.whatwg.org/multipage/) | Documentación de contenido HTML  | ` HTML ` |
+| [Javi Niguez](https://www.youtube.com/playlist?list=PLMu9C465dSKCJqUBUbqpNfbveq-nATRtZ) | Lista de reproducción en YouTube HTML, CSS | ` HTML `, ` CSS ` |
+| [Referencias HTML](https://htmlreference.io/) | Una guía gratuita de HTML | ` HTML ` |
+| [Lenguaje HTML](https://lenguajehtml.com/html/) | Guía sobre todo de HTML de Manz.dev | ` HTML ` |
+
+------------------------
+
+
